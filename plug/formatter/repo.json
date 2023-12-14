@@ -1,0 +1,14 @@
+[{
+  "Name": "formatter",
+  "Description": "plugin to run formatters on files",
+  "Tags": ["python", "formatter"],
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "Url": "https://github.com/a11ce/micro-yapf/archive/1.0.0.zip",
+      "Require": {
+        "micro": ">=2.0.8"
+      }
+    }
+  ]
+}]

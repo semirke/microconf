@@ -1,0 +1,14 @@
+[{
+  "Name": "bgfork",
+  "Description": "plugin to put the editor to background (recover: ctrl+d). Runs a bash shell.",
+  "Tags": ["background", "shell"],
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "Url": "https://github.com/semirke/micro-bgfork/archive/1.0.0.zip",
+      "Require": {
+        "micro": ">=2.0.8"
+      }
+    }
+  ]
+}]

@@ -1,0 +1,18 @@
+{
+    "autosu": true,
+    "clipboard": "internal",
+    "colorcolumn": 100,
+    "colorscheme": "mygeany",
+    "cursorline": false,
+    "diffgutter": true,
+    "hlsearch": true,
+    "hltaberrors": true,
+    "hltrailingws": true,
+    "keepautoindent": true,
+    "mouse": false,
+    "rmtrailingws": true,
+    "savecursor": true,
+    "scrollbar": true,
+    "tabmovement": true,
+    "tabstospaces": true
+}

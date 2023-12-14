@@ -1,0 +1,15 @@
+[{
+  "Name": "grepfind",
+  "Description": "Find string in files and jump",
+  "Website": "https://github.com/terokarvinen/micro-jump",
+  "Tags": ["find", "fzf", "grep", "code browser"],
+  "Versions": [
+    {
+      "Version": "0.0.4",
+      "Url": "https://github.com/semirke/micro-grepfind/archive/v0.0.4.zip",
+      "Require": {
+        "micro": ">=2.0.0"
+      }
+    }
+  ]
+}]

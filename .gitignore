@@ -1,0 +1,4 @@
+buffers/*
+backups/*
+updatepack.sh
+*/__pycache__/*
